@@ -1,0 +1,16 @@
+music/Gorillaz.wav 139
+music/lose.wav 171
+music/Natural.wav 98
+music/Pnk.wav 126
+music/Waka.wav 127
+music/Raincraft.wav 40
+music/Tengo.wav 50
+music/Doors.wav 60
+music/Happy.wav 69
+music/Adele.wav 80
+music/Drop.wav 92
+music/Tiger.wav 109
+music/Journey.wav 119
+music/Maroon5.wav 150
+music/HeyYa.wav 160
+music/despacito.wav 0
