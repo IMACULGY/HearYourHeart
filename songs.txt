@@ -3,6 +3,8 @@ music/lose.wav 171
 music/Natural.wav 98
 music/Pnk.wav 126
 music/Waka.wav 127
+music/wiisports.wav 130
+music/rickroll.wav 135
 music/Raincraft.wav 40
 music/Tengo.wav 50
 music/Doors.wav 60
@@ -13,4 +15,6 @@ music/Tiger.wav 109
 music/Journey.wav 119
 music/Maroon5.wav 150
 music/HeyYa.wav 160
+music/takeonme.wav 161
+music/tunaktunaktun.wav 165
 music/despacito.wav 0
